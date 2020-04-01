@@ -4,7 +4,7 @@
 # -*- tabstop: 4 -*-
 
 '''
-Simple links exchanget for teachers messages in Librus framework
+Simple links exchanged for teachers messages in Librus framework
 '''
 
 import gi
